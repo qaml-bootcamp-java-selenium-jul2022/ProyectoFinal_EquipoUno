@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-06T20:17:15 COT" name="Automation Practice Test" finished-at="2022-10-06T20:17:26 COT" duration-ms="10487">
+    <groups>
+    </groups>
+    <test started-at="2022-10-06T20:17:15 COT" name="D:\personal\learningselenium\clases\proyecto final\proyecto\ProyectoFinal_EquipoUno" finished-at="2022-10-06T20:17:26 COT" duration-ms="10487">
+      <class name="AutomationPracticeTest">
+        <test-method is-config="true" signature="abrirUrl()[pri:0, instance:AutomationPracticeTest@7b139eab]" started-at="2022-10-06T20:17:15 COT" name="abrirUrl" finished-at="2022-10-06T20:17:19 COT" duration-ms="3968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrirUrl -->
+        <test-method signature="requerimientoSR1012()[pri:1, instance:AutomationPracticeTest@7b139eab]" started-at="2022-10-06T20:17:19 COT" name="requerimientoSR1012" description="Requirement SR1012 Clicking on BestSellers Design and verify result options" finished-at="2022-10-06T20:17:20 COT" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requerimientoSR1012 -->
+        <test-method signature="requerimientoSR1010()[pri:2, instance:AutomationPracticeTest@7b139eab]" started-at="2022-10-06T20:17:20 COT" name="requerimientoSR1010" description="Requirement SR1010 Clicking on Popular Design and verify result options" finished-at="2022-10-06T20:17:20 COT" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requerimientoSR1010 -->
+        <test-method signature="requerimientoSR1013()[pri:3, instance:AutomationPracticeTest@7b139eab]" started-at="2022-10-06T20:17:20 COT" name="requerimientoSR1013" description="Requirement SR1013 Hovering over an item AddtoCart and More button" finished-at="2022-10-06T20:17:20 COT" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requerimientoSR1013 -->
+        <test-method signature="requerimientoSR1014()[pri:4, instance:AutomationPracticeTest@7b139eab]" started-at="2022-10-06T20:17:20 COT" name="requerimientoSR1014" description="Requirement SR1014 Clicking AddToCart button a modal with information elements" finished-at="2022-10-06T20:17:22 COT" duration-ms="2232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requerimientoSR1014 -->
+        <test-method signature="requerimientoSR1015()[pri:5, instance:AutomationPracticeTest@7b139eab]" started-at="2022-10-06T20:17:22 COT" name="requerimientoSR1015" description="Requirement SR1015 Clicking More button and redirected to product page details" finished-at="2022-10-06T20:17:26 COT" duration-ms="3250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requerimientoSR1015 -->
+        <test-method is-config="true" signature="cerrarNavegador()[pri:0, instance:AutomationPracticeTest@7b139eab]" started-at="2022-10-06T20:17:26 COT" name="cerrarNavegador" finished-at="2022-10-06T20:17:26 COT" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarNavegador -->
+      </class> <!-- AutomationPracticeTest -->
+    </test> <!-- D:\personal\learningselenium\clases\proyecto final\proyecto\ProyectoFinal_EquipoUno -->
+  </suite> <!-- Automation Practice Test -->
+</testng-results>
